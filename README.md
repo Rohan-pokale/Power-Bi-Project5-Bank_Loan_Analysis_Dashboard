@@ -168,9 +168,14 @@ This Power BI Dashboard addresses multiple **business and data analysis challeng
 
 🕒 Long loan terms and state-level data offer segmentation value
 
-# About Me
-👨‍💻 Rohan Devanand Pokale 
-🎓 B.Tech in Computer Science (Data Science) | Vishwakarma Institute of Technology, Pune 🔍 Passionate about data storytelling, dashboarding, and building scalable analytics solutions. 
-📧 Email: developer.rohan06@gmail.com 
-💼 LinkedIn: www.linkedin.com/in/rohan-pokale-a774b2308
+
+## 👤 About Me
+
+**Rohan Devanand Pokale**  
+🎓 B.Tech – Computer Science (Data Science)  
+🏫 Vishwakarma Institute of Technology, Pune  
+📧 developer.rohan06@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/rohan-pokale-a774b2308)  
+
+> Passionate about data Analysis, visualization, and impactful analytics solutions.
 
