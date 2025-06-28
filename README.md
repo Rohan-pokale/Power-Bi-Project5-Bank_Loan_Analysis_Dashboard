@@ -96,7 +96,7 @@ It allows interactive filtering and slicing for better understanding of patterns
 
 ---
 
-## 🧪 SQL Integration – Backend Validation
+## 🧪 SQL Integration – Backend Validation ( [View SQL Query Document](https://github.com/Rohan-pokale/Power-Bi-Project5-Bank_Loan_Analysis_Dashboard/blob/main/SQL%20Query%20Testing.docx) )
 
 Used SQL extensively to validate dashboard KPIs, segments, and filters.
 
