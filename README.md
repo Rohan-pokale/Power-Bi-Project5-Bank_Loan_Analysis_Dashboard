@@ -31,7 +31,7 @@ It allows interactive filtering and slicing for better understanding of patterns
 
 ## 🗂 Dashboard Pages
 
-### 1️⃣ Landing Page – _Navigation & Overview_
+### 1️⃣ Landing Page – _Navigation & Overview_ [View Landing Page](https://github.com/Rohan-pokale/Power-Bi-Project5-Bank_Loan_Analysis_Dashboard/blob/main/Page1-Landing%20Page.PNG)
 
 **Purpose**: Acts as the starting page, giving users a visual summary of:
 - What to expect (MTD, PMTD, MoM trends)
@@ -42,7 +42,7 @@ It allows interactive filtering and slicing for better understanding of patterns
 
 ---
 
-### 2️⃣ Summary Page – _Key Metrics & Loan Quality_
+### 2️⃣ Summary Page – _Key Metrics & Loan Quality_ [View Summary Page](https://github.com/Rohan-pokale/Power-Bi-Project5-Bank_Loan_Analysis_Dashboard/blob/main/Page2-Summary%20Page.PNG)
 
 **Purpose**: High-level insights on loan volume and financial performance.
 
@@ -60,7 +60,7 @@ It allows interactive filtering and slicing for better understanding of patterns
 
 ---
 
-### 3️⃣ Overview Page – _Trend and Demographics Analysis_
+### 3️⃣ Overview Page – _Trend and Demographics Analysis_ [View Overview Page](https://github.com/Rohan-pokale/Power-Bi-Project5-Bank_Loan_Analysis_Dashboard/blob/main/Page3-Overview%20Page.PNG)
 
 **Visual Components**:
 - 📈 Monthly Trend Line
@@ -80,7 +80,7 @@ It allows interactive filtering and slicing for better understanding of patterns
 
 ---
 
-### 4️⃣ Details Page – _Record-Level Insights_
+### 4️⃣ Details Page – _Record-Level Insights_ [View Details Page](https://github.com/Rohan-pokale/Power-Bi-Project5-Bank_Loan_Analysis_Dashboard/blob/main/Page4-Details%20Page.PNG)
 
 **Purpose**: Raw data view at individual loan level for auditing or export.
 
