@@ -1,15 +1,12 @@
 # 🏦 Bank Loan Report – SQL Query Document
 
 This file contains the complete SQL script used to generate a detailed analytical report from the `bank_loan_data` table. It includes business-critical KPIs and deep-dive breakdowns helpful for reporting and dashboarding purposes.
-
 ---
-
 # A.	BANK LOAN REPORT | SUMMARY
 
 ## KPI’s
 
 ## Total Loan Applications:
-
 ```
 sql
 SELECT COUNT(id) AS Total_Applications FROM bank_loan_data
